@@ -132,7 +132,7 @@
 <script>
 import _ from 'lodash'
 import axios from 'axios'
-import parseSize from '@laomao800/parse-size-with-unit'
+import parseSize from '@lawrence_ch/parse-size-with-unit'
 import VNode from '@/components/v-node'
 import ListviewHeader from '@/components/listview-header.vue'
 import Filterbar from '@/components/filterbar.vue'

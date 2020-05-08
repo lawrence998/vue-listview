@@ -21,7 +21,7 @@ Listview 内置另一个组件 Listview Container 用于生成多个 Listview �
 </template>
 
 <script>
-import { Listview, ListviewContainer } from '@laomao800/vue-listview'
+import { Listview, ListviewContainer } from '@lawrence_ch/vue-listview'
 
 export default {
   name: 'ListviewContainerDemo',

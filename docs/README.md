@@ -11,11 +11,11 @@ Vue Listview 是一个基于 [Vue.js](https://cn.vuejs.org/) 和 [Element-UI](ht
 ## 安装
 
 ```bash
-yarn add @laomao800/vue-listview element-ui
+yarn add @lawrence_ch/vue-listview element-ui
 
 # OR
 
-npm i -S @laomao800/vue-listview element-ui
+npm i -S @lawrence_ch/vue-listview element-ui
 ```
 
 **Element-UI 作为 peerDependencies 需要同步安装。**
@@ -39,7 +39,7 @@ npm i -S @laomao800/vue-listview element-ui
 import Vue from 'vue'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
-import Listview from '@laomao800/vue-listview'
+import Listview from '@lawrence_ch/vue-listview'
 
 Vue.use(ElementUI)
 Vue.use(Listview)
@@ -73,7 +73,7 @@ Vue.use(Listview, {
 
 <script>
 // import Vue from 'vue'
-import Listview from '@laomao800/vue-listview'
+import Listview from '@lawrence_ch/vue-listview'
 
 /*
 Vue.prototype.$LISTVIEW = {

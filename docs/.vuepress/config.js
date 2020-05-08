@@ -37,7 +37,7 @@ module.exports = {
   themeConfig: {
     docsDir: 'docs',
     lastUpdated: '上次更新',
-    repo: 'laomao800/vue-listview',
+    repo: 'lawrence998/vue-listview',
     repoLabel: '仓库地址',
     nav: [
       {
@@ -95,7 +95,7 @@ module.exports = {
       {
         text: 'Changelog',
         link:
-          'https://github.com/laomao800/vue-listview/blob/master/CHANGELOG.md'
+          'https://github.com/lawrence998/vue-listview/blob/master/CHANGELOG.md'
       }
     ],
     sidebar: {
