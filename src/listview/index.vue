@@ -27,7 +27,10 @@
           <slot name="append-filterbar-submit" />
         </template>
       </filterbar>
-
+      <!-- 新增自定义插槽 -->
+      <div ref="btnsWarp">
+        <slot name="btns-warp"></slot>
+      </div>
       <div v-loading="contentLoading">
         <div
           ref="content"
